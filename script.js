@@ -85,8 +85,17 @@ const translations = {
         newsletter: "Newsletter",
         newsletterDesc: "Subscribe to our newsletter for the latest updates and offers.",
         rights: "All Rights Reserved.",
-        designed: "Designed and Developed with ❤️"
-    },
+        designed: "Designed and Developed with ❤️",
+        ourWorkTitle: "Our Work",
+      project1Title: "Dr. Sohila Emad Website",
+      project1Desc: "A clean, professional nutritionist website featuring medical info and appointment scheduling in a user-friendly layout.",
+      project2Title: "AmrStore",
+      project2Desc: "An online store for digital games with a modern UI, easy navigation, and a seamless shopping experience.",
+      project3Title: "Shahd Medhat – Bilingual Voice Artist",
+      project3Desc: "Shahd Medhat is a unique voice talent who blends emotion and professionalism in both Arabic and English. Her voice ranges from warm to playful to energetic, giving brands a modern and distinctive identity. With her production and editing skills, she delivers a complete and standout audio experience.",
+      visit: "Visit Project",
+      seeMore: "See More"
+        },
     ar: {
         home: "الرئيسية",
         about: "من نحن",
@@ -172,9 +181,19 @@ const translations = {
         newsletter: "النشرة الإخبارية",
         newsletterDesc: "اشترك في نشرتنا الإخبارية للحصول على آخر التحديثات والعروض.",
         rights: "جميع الحقوق محفوظة.",
-        designed: "مصمم ومطور ب ❤️"
-    }
-};
+        designed: "مصمم ومطور ب ❤️",
+         ourWorkTitle: "أعمالنا",
+      project1Title: "موقع د. سهيلة عماد",
+      project1Desc: "موقع تغذية احترافي يعرض معلومات طبية وجدولة المواعيد بطريقة سهلة وواضحة.",
+      project2Title: "متجر عمرو",
+      project2Desc: "متجر إلكتروني لألعاب الفيديو بواجهة حديثة وسهولة في التصفح وتجربة شراء سلسة.",
+      project3Title: "شهد مدحت – فنانة صوتية ثنائية اللغة",
+      project3Desc: "شهد مدحت صوت فريد يضرب بين العاطفة والمهنية بطلاقة عربية وإنجليزية. بصوتها المتنوع بين الدافئ، الطفولي، والحيوي، تجسد العلامات التجارية بأسلوب عصري واحترافي. بالإضافة لقدراتها في إنتاج الصوت وتعديله، تقدم تجربة صوتية متكاملة ومميزة.",
+      visit: "زيارة المشروع",
+      seeMore: "عرض المزيد"
+
+        }
+    };
 
 // Current language
 let currentLang = 'en';
